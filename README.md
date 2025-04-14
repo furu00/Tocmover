@@ -61,13 +61,13 @@
 
 2. **List filenames/folders to match**:
    
-   MATCHES=('/docker' 'notes.txt' '/backup_data')
+   MATCHES=('docker' 'notes.txt' 'backup_data')
    WILDCARDS=('log_*' '*.img')
 
 📝 Example
 
     SOURCE="/mnt/hdd"
     DEST="/mnt/backup"
-    MATCHES=("/docker" "/appdata" "data.log")
+    MATCHES=("docker" "appdata" "data.log")
     WILDCARDS=("report_*" "*.bak")
     DRYRUN=true  # Preview what would move
