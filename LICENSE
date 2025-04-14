@@ -385,6 +385,13 @@ that material) supplement the terms of this License with terms:
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
 
+7A. Commercial Use and Revenue Share
+As an additional term under Section 7 of this License, any commercial use of this Program, or of any work based on it, is permitted only if the entity or individual engaging in such commercial use agrees to the following condition:
+- A revenue share of 3% of the gross revenue generated directly or indirectly from the commercial use of the Program must be paid to the original copyright holder(s).
+"Commercial use" includes, but is not limited to, selling the Program, incorporating it into a product or service that is sold, or using it in any for-profit business or organization where the Program contributes materially to revenue generation.
+The revenue share must be reported and paid quarterly, and payment terms, contact details, and reporting requirements must be made publicly available in the Program’s repository or distribution site.
+Non-commercial use remains fully permitted under the standard terms of the GNU General Public License version 3.
+
   All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10.  If the Program as you
 received it, or any part of it, contains a notice stating that it is
